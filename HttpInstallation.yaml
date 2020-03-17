@@ -1,7 +1,7 @@
 ---
 -
   hosts: test
-  name: "This sets up an httpd webserver"
+  name: "This sets up an httpd webserverss"
   tasks:
     -
       name: "Install apache packages"
