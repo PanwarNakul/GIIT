@@ -4,7 +4,7 @@
   name: "This sets up an httpd webserverssss"
   tasks:
     -
-      name: "Install apache packages"
+      name: "Install apache packageSS"
       yum:
         name: httpd
         state: present
