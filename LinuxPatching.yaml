@@ -1,27 +1,20 @@
 ---
--
-  any_errors_fatal: false
-  delegate_to: localhost
+- name: Performing yum update on host(s)
   hosts: test
-  name: "Performing yum update on host(s)"
-  pre_tasks:
-    mail:
-      body: "System {{ ansible_hostname }} has been successfully provisioned."
-      host: smtp.gmail.com
-      password: newpassword@123
-      port: 587
-      subject: Ansible-report
-      to: "nakul.panwar@accenture.com"
-      username: nakul.panwar77@gmail.com
--
-  name: "install httpd"
+  #become: yes
+  any_errors_fatal: false
+#- name: Sending an e-mail using Gmail SMTP servers
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: nakul.panwar77@gmail.com
+    password: newpassword@123
+    to: nakul.panwar@accenture.com
+    subject: Ansible-report
+    body: System {{ ansible_hostname }} has been successfully provisioned.
+  delegate_to: localhost
+- name: Updating all packages
   yum:
-    name: http
+    name: 'httpd'
     state: latest
--
-  name: "Comparing last kernel and running kernel"
-  shell: |
-      LAST_KERNEL=$(rpm -q --last kernel | perl -pe 's/^kernel-(\S+).*/$1/' | head -1)
-      CURRENT_KERNEL=$(uname -r)
 
-      if [[ $LAST_KERNEL != $CURRENT_KERNEL ]]; then echo "reboot required"
