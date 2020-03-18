@@ -17,10 +17,10 @@
      mail:
       host: smtp.gmail.com
       port: 587
-      username: nakul.panwar77@gmail.com
-      password: newpassword@123
-      to: nakul.panwar@accenture.com
-      #cc: sumesh.purushothaman@accenture.com
+      username: 
+      password: 
+      to: 
+      #cc: 
       subject: "Patching: Statrted"
       body: This is test mail to check the script functioanitly,Please ignore..
      delegate_to: localhost
@@ -61,10 +61,10 @@
      mail:
       host: smtp.gmail.com
       port: 587
-      username: nakul.panwar77@gmail.com
-      password: newpassword@123
-      to: nakul.panwar@accenture.com
-      #cc: sumesh.purushothaman@accenture.com
+      username: 
+      password: 
+      to: 
+      #cc: 
       subject: "Patching: Completed"
       body: This is test mail to check the script functioanitly,Please ignore..
      delegate_to: localhost
