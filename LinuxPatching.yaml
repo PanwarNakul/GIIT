@@ -32,9 +32,9 @@
        name: 'httpd'
        state: latest
    - name: Comparing last kernel and running kernel
-     script: /root/CheckKernelReboot.sh
+     script: CheckKernelReboot.sh
      args:
-      creates: /root/CheckKernelReboot.sh
+      creates: CheckKernelReboot.sh
    - name: Checking if reboot flag exists
      stat:
        path: /tmp/reboot
