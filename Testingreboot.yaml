@@ -1,0 +1,8 @@
+---
+- hosts: test
+  tasks:
+   - name: Comparing last kernel and running kernel
+     script: CheckKernelReboot.sh
+     args:
+      creates: CheckKernelReboot.sh
+
