@@ -1,7 +1,7 @@
 #####################################################
 #This Playbook is used for patching the linux VMs   #
-# Usage:                                            #
-# ansible-playbook --user=test -kK                  #
+# Authored By: Nakul Panwar                         #
+# Usage: ansible-playbook --user=test -kK           #
 #note: CheckKernelReboot.sh should be in same       #
 #       directory where LinuxPatching.yaml exists   #
 #####################################################
