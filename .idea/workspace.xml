@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c91eb56e-f1a5-43d0-96a7-5ebad0d29efa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckKernelReboot.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CheckKernelReboot.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UpdateIPTables.sh" beforeDir="false" afterPath="$PROJECT_DIR$/UpdateIPTables.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
