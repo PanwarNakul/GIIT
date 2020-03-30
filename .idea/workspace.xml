@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c91eb56e-f1a5-43d0-96a7-5ebad0d29efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckKernelReboot.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CheckKernelReboot.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZppOC4dTo9Q8yXDSULuCAMDDK2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c91eb56e-f1a5-43d0-96a7-5ebad0d29efa" name="Default Changelist" comment="" />
+      <created>1585545855120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585545855120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585546983301">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.639@0.0.1280.639" timestamp="1585546983301" />
+    <state x="469" y="35" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1585546309004">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="469" y="35" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1280.639@0.0.1280.639" timestamp="1585546309004" />
+    <state x="461" y="75" key="FileChooserDialogImpl" timestamp="1585547204987">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="461" y="75" key="FileChooserDialogImpl/0.0.1280.639@0.0.1280.639" timestamp="1585547204987" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585547209599">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.639@0.0.1280.639" timestamp="1585547209599" />
+    <state x="328" y="166" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585546881913">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="328" y="166" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.639@0.0.1280.639" timestamp="1585546881913" />
+    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup" timestamp="1585546996900">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup/0.0.1280.639@0.0.1280.639" timestamp="1585546996900" />
   </component>
 </project>
