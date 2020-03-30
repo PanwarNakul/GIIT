@@ -2,18 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c91eb56e-f1a5-43d0-96a7-5ebad0d29efa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/terminal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Jenkins_integration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jenkins_integration.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UpdateIPTables.sh" beforeDir="false" afterPath="$PROJECT_DIR$/UpdateIPTables.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Jenkins_integration" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Git_Test" />
   </component>
   <component name="ProjectId" id="1ZppOC4dTo9Q8yXDSULuCAMDDK2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,9 +35,12 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Git_Test" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.splitter.proportion" value="0.24338086" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,29 +56,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585546983301">
+    <state x="232" y="0" key="#Notifications" timestamp="1585565793036">
       <screen x="0" y="0" width="1280" height="639" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.639@0.0.1280.639" timestamp="1585546983301" />
+    <state x="232" y="0" key="#Notifications/0.0.1280.639@0.0.1280.639" timestamp="1585565793036" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585549769203">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.639@0.0.1280.639" timestamp="1585549769203" />
     <state x="469" y="35" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog" timestamp="1585546309004">
       <screen x="0" y="0" width="1280" height="639" />
     </state>
     <state x="469" y="35" key="#com.intellij.ide.ui.customization.CustomizableActionsPanel.FindAvailableActionsDialog/0.0.1280.639@0.0.1280.639" timestamp="1585546309004" />
-    <state x="461" y="75" key="FileChooserDialogImpl" timestamp="1585547204987">
+    <state x="284" y="0" key="CommitChangelistDialog2" timestamp="1585566368971">
       <screen x="0" y="0" width="1280" height="639" />
     </state>
-    <state x="461" y="75" key="FileChooserDialogImpl/0.0.1280.639@0.0.1280.639" timestamp="1585547204987" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1585547209599">
+    <state x="284" y="0" key="CommitChangelistDialog2/0.0.1280.639@0.0.1280.639" timestamp="1585566368971" />
+    <state x="461" y="75" key="FileChooserDialogImpl" timestamp="1585551238255">
       <screen x="0" y="0" width="1280" height="639" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.639@0.0.1280.639" timestamp="1585547209599" />
+    <state x="461" y="75" key="FileChooserDialogImpl/0.0.1280.639@0.0.1280.639" timestamp="1585551238255" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585551248313">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.639@0.0.1280.639" timestamp="1585551248313" />
+    <state x="232" y="52" key="Vcs.Push.Dialog.v2" timestamp="1585566425240">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="232" y="52" key="Vcs.Push.Dialog.v2/0.0.1280.639@0.0.1280.639" timestamp="1585566425240" />
     <state x="328" y="166" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585546881913">
       <screen x="0" y="0" width="1280" height="639" />
     </state>
     <state x="328" y="166" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.639@0.0.1280.639" timestamp="1585546881913" />
-    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup" timestamp="1585546996900">
+    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup" timestamp="1585549785128">
       <screen x="0" y="0" width="1280" height="639" />
     </state>
-    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup/0.0.1280.639@0.0.1280.639" timestamp="1585546996900" />
+    <state x="303" y="0" width="672" height="637" key="search.everywhere.popup/0.0.1280.639@0.0.1280.639" timestamp="1585549785128" />
   </component>
 </project>
